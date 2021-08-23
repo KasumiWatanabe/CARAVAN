@@ -6,6 +6,10 @@ class BlogsController < ApplicationController
   end
 
   def new
+    @blog = B
+  end
+  
+  def create
   end
 
   def edit
